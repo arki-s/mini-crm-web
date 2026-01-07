@@ -1,5 +1,7 @@
 # Mini CRM (Frontend)
 
+![CI](https://github.com/arki-s/mini-crm-web/actions/workflows/ci.yml/badge.svg)
+
 A small CRM frontend built with Next.js for learning and practice.
 
 ## Purpose
